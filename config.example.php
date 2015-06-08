@@ -1,9 +1,8 @@
 <?php
- 	$credentials = array (
+ 	$config = array (
 		"devKey" => "", //Google developer key
 		"clientId" => "",
-		"calendarId" => "" //Google calendar id
+		"calendarId" => "", //Google calendar id
+		"origin" => "" //URL for request origin
 	);
-
-	$origin = ""; //URL for request origin
 ?>
